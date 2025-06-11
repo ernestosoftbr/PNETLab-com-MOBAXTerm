@@ -1,3 +1,5 @@
+![pm](https://github.com/user-attachments/assets/98e35489-c29d-460e-bb74-16afe0e4b89d)
+
 Instalando do Client Pack podemos acessar os equipamentos do laboratório através do Putty ou MobaXTerm. 
 
 O Putty é escolhido como padrão pela instalação.
@@ -15,18 +17,18 @@ https://pnetlab.com/pages/documentation?slug=how-to-console-to-devices
 
 💎 Realize o Download desses dois arquivos:
 
-mobaxterm_ethx_pnetlab.reg:
+**mobaxterm_ethx_pnetlab.reg:**
 
 https://github.com/ernestosoftbr/PNETLab-com-MOBAXTerm/blob/main/mobaxterm_ethx_pnetlab.reg
 
-pnetlab_ethx_mobaxterm.bat
+**pnetlab_ethx_mobaxterm.bat:**
 
 https://github.com/ernestosoftbr/PNETLab-com-MOBAXTerm/blob/main/pnetlab_ethx_mobaxterm.bat
 
-💎 Copie ou salve esses arquivos no diretório:
+💎 Copie ou salve esses arquivos no diretório: 
 C:\Program Files\EVE-NG\
 
-💎 Executi o arquivo mobaxterm_ethx_pnetlab.reg
+💎 Executi o arquivo **mobaxterm_ethx_pnetlab.reg**
 
 💎  Agora abra um laboratório e tente abrir um VPC por exemplo. E verifique se o MOBAXTerm vai abrir.
 
