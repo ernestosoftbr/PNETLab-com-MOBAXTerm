@@ -1,5 +1,8 @@
 ![pm](https://github.com/user-attachments/assets/98e35489-c29d-460e-bb74-16afe0e4b89d)
 
+# PNETLab com MOBAXTerm
+
+
 Instalando o Client Pack podemos acessar os equipamentos do laboratório através do Putty ou MobaXTerm. 
 
 O Putty é escolhido como padrão pela instalação.
