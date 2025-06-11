@@ -1,6 +1,6 @@
 @echo off
 @echo Alexandre Ernesto
-@echo GIT:123456
+@echo GIT:https://github.com/ernestosoftbr/PNETLab-com-MOBAXTerm/blob/main/pnetlab_ethx_mobaxterm.bat
 
 SET input=%1
 
