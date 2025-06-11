@@ -17,11 +17,11 @@ https://pnetlab.com/pages/documentation?slug=how-to-console-to-devices
 
 mobaxterm_ethx_pnetlab.reg:
 
-https://github.com/sanderethx/pnetlabv6/blob/main/mobaxterm_ethx_pnetlab.reg
+https://github.com/ernestosoftbr/PNETLab-com-MOBAXTerm/blob/main/mobaxterm_ethx_pnetlab.reg
 
 pnetlab_ethx_mobaxterm.bat
 
-https://github.com/sanderethx/pnetlabv6/blob/main/pnetlab_ethx_mobaxterm.bat
+https://github.com/ernestosoftbr/PNETLab-com-MOBAXTerm/blob/main/pnetlab_ethx_mobaxterm.bat
 
 💎 Copie ou salve esses arquivos no diretório:
 C:\Program Files\EVE-NG\
