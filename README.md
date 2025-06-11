@@ -8,7 +8,7 @@ Nesse tutorial explicamos como proceder para alteramos para o MOBAXTerm.
 ![MOBAXTerm](https://github.com/user-attachments/assets/322df971-e40d-4e6f-97b0-ea3726da3e9a)
 
 
-🚀 Instalação do Client Pack:
+### 🚀 Instalação do Client Pack:
 
 💎 Primeiro devemos baixar e instalar o client pack através do link:
 
@@ -32,3 +32,10 @@ C:\Program Files\EVE-NG\
 
 💎  Agora abra um laboratório e tente abrir um VPC por exemplo. E verifique se o MOBAXTerm vai abrir.
 
+### Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/alexandre-ernesto-0478062a2/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://www.instagram.com/alexandreernesto.ti/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>&nbsp;
