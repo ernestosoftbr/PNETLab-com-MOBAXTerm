@@ -1,6 +1,6 @@
 ![pm](https://github.com/user-attachments/assets/98e35489-c29d-460e-bb74-16afe0e4b89d)
 
-Instalando do Client Pack podemos acessar os equipamentos do laboratório através do Putty ou MobaXTerm. 
+Instalando o Client Pack podemos acessar os equipamentos do laboratório através do Putty ou MobaXTerm. 
 
 O Putty é escolhido como padrão pela instalação.
 
@@ -31,6 +31,8 @@ C:\Program Files\EVE-NG\
 💎 Executi o arquivo **mobaxterm_ethx_pnetlab.reg**
 
 💎  Agora abra um laboratório e tente abrir um VPC por exemplo. E verifique se o MOBAXTerm vai abrir.
+
+##
 
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/alexandre-ernesto-0478062a2/">
